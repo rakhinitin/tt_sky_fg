@@ -1,7 +1,7 @@
 # Tiny Tapeout project information
 project:
   title:        "Frequeny generator"      # Project titleS
-  author:       "Aman; Beauty; Daneshwari; Darshan (Guide)"      # Your name
+  author:       "Aman Singh; Beauty Sahani; Daneshwari Hiremath; Darshan (Guide)"      # Your name
   Academic:     "Atria Institute of Technology"
   discord:      "darshan_34852"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Generates Frequency"      # One line description of what your project does
