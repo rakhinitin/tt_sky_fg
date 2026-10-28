@@ -20,7 +20,7 @@
 //   Set to high-impedance / unused outputs for safety.
 // ============================================================================
 
-module tt_um_repellant_generator (
+module tt_um_repellant_gen (
     input  wire [7:0] ui_in,    // Dedicated inputs[cite: 1]
     output wire [7:0] uo_out,   // Dedicated outputs[cite: 2]
     input  wire [7:0] uio_in,   // IOs: Input path
