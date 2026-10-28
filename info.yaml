@@ -1,7 +1,8 @@
 # Tiny Tapeout project information
 project:
   title:        "Frequeny generator"      # Project titleS
-  author:       "Aman"      # Your name
+  author:       "Aman; Beauty; Daneshwari; Darshan (Guide)"      # Your name
+  Academic:     "Atria Institute of Technology"
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Generates Frequency"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
